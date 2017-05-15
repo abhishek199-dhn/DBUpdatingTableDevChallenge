@@ -14,6 +14,16 @@ h2 {
     font-size: 20px;
 }
 
+.read-me-wrapper {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.read-me-wrapper a {
+    text-align: center;
+    color: #5a5a5a;
+}
+
 .content {
     margin: auto;
     width: 80%;

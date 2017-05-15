@@ -9,6 +9,7 @@ Assumptions:
 Design
 ---
 It is divided into 4 parts.
+
 * BidTable (component) : Acts as a controller which renders the Table(View) and subscribe a topic
                          "bidTable/data/updated" to receive the updates as soon as bidDataModel gets updated.
                         
@@ -93,5 +94,6 @@ such that we don't have to maintain the data in state in every components.
 Contact details
 ---
 if you have trouble running it you can get in touch with me on my email id.
+
 email id: abhishek1.dhn@gmail.com
 Name: Abhishek Kumar

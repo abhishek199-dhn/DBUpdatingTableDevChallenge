@@ -94,5 +94,6 @@ such that we don't have to maintain the data in state in every components.
 Contact details
 ---
 if you have trouble running it you can get in touch with me on my email id.
+
 email id: abhishek1.dhn@gmail.com
 Name: Abhishek Kumar

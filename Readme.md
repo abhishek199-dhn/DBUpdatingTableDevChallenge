@@ -1,8 +1,6 @@
 DB Updating Table Dev Challenge
 ===============================
 
-This module contains a development challenge for DB recruitment.
-
 Assumptions:
 * topic /fx/prices sends updates each seconds.
 
